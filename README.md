@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=F59E0B&background=0F172A00&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+vedansh_prakash;%24+role+%E2%86%92+SWE+%2F+AI-ML+Engineer+(2026+grad);%24+stack+%E2%86%92+Python+%2B+Flask+%2B+React+%2B+Scikit-learn;%24+focus+%E2%86%92+RAG+%2B+LangChain+%2B+security-ML;%24+status+%E2%86%92+open_to_work+%3D+true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=F59E0B&background=0F172A00&center=true&vCenter=true&width=680&lines=%24+Who_Am_I+%E2%86%92+Vedansh_Prakash;%24+Role+%E2%86%92+SWE+%2F+AI-ML+Engineer+(2026+grad);%24+Stack+%E2%86%92+Python+%2B+Java+%2B+Node.js+%2B+React+%2B+NumPy+%2B+Pandas;%24+Focus+%E2%86%92+Gen_AI+%2B+security-ML;%24+status+%E2%86%92+open_to_work+%3D+true)](https://git.io/typing-svg)
 
 </div>
 
