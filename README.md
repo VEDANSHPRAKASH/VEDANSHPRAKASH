@@ -77,7 +77,7 @@ OPEN_TO   = "Software Engineer | AI/ML Engineer | Full-Stack roles"
 
 <br/>
 
-## `$ column -t expertise.tsv`
+## `Expertise.tsv`
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
