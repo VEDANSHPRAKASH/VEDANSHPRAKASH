@@ -37,22 +37,22 @@
 
 <br/>
 
-## `$ cat about.md`
+## `About Me`
 
-I'm a final-year Computer Science undergraduate building end-to-end AI/ML systems — from feature-engineered ML pipelines to production Flask/React deployments. My final-year project applies machine learning to malware mutation detection, and I'm rounding out my stack with RAG, LangChain, and vector search. Looking for **Software Engineer** or **AI/ML Engineer** roles where I can ship production-grade systems.
+I'm a Computer Science undergraduate building end-to-end AI/ML systems — from feature-engineered ML pipelines to production Flask/React deployments. My final-year project applies machine learning to malware mutation detection, and I'm rounding out my stack with RAG, LangChain, and vector search. Looking for **Software Engineer** or **AI/ML Engineer** roles where I can ship production-grade systems.
 
 ```bash
 $ cat profile.env
 ROLE      = "Software Engineer / AI-ML Engineer"
-STATUS    = "Final Year Undergraduate (Graduating 2026)"
+STATUS    = "B-Tech Undergraduate (Graduated in 2026)"
 DOMAIN    = "AI/ML Systems, Full-Stack Development, Security ML"
-STACK     = "Python, Java, Flask, React, Spring Boot, Scikit-learn"
+STACK     = "Python, Java, Flask, React, Node.js, Express.js, Scikit-learn"
 OPEN_TO   = "Software Engineer | AI/ML Engineer | Full-Stack roles"
 ```
 
 <br/>
 
-## `$ ls tech-stack/`
+## `Tech-Stack/`
 
 **Languages & Core**
 ![](https://skillicons.dev/icons?i=python,java,cpp,html,css,js&theme=dark)
@@ -68,7 +68,7 @@ OPEN_TO   = "Software Engineer | AI/ML Engineer | Full-Stack roles"
 
 <br/>
 
-## `$ grep -i specialties`
+## `Specialties`
 
 ![AI/ML Systems](https://img.shields.io/badge/AI%2FML_SYSTEMS-Feature_Engineering_%7C_Model_Deployment-0F172A?style=flat-square&labelColor=0F172A&color=F59E0B)
 ![Security ML](https://img.shields.io/badge/SECURITY_ML-Malware_Detection_%7C_LightGBM-0F172A?style=flat-square&labelColor=0F172A&color=F59E0B)
@@ -82,7 +82,7 @@ OPEN_TO   = "Software Engineer | AI/ML Engineer | Full-Stack roles"
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Machine Learning | ●●●●○ | Supervised learning, feature engineering, model evaluation (RMSE/MAE/R²), LightGBM, Scikit-learn |
-| Full-Stack Development | ●●●●○ | Flask + React + Spring Boot; REST API design; JWT auth |
+| Full-Stack Development | ●●●●○ | Flask + React + Node.js; REST API design; JWT auth |
 | Generative AI | ●●●○○ | RAG, LangChain, FAISS vector search, prompt engineering, OpenAI/Gemini integration |
 | NLP | ●●●●○ | TF-IDF, intent classification, text classification pipelines |
 | Security Engineering | ●●●○○ | PE-file feature extraction (EMBER), malware classification, auth/security controls |
@@ -90,7 +90,7 @@ OPEN_TO   = "Software Engineer | AI/ML Engineer | Full-Stack roles"
 
 <br/>
 
-## `$ find ./projects -type f`
+## `Projects`
 
 <details open>
 <summary><b>🦠 Malware Mutation Detector — AI-ML Security System</b></summary>
@@ -157,7 +157,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ tail -f experience.log`
+## `Experience`
 
 **Aug 2025 – May 2026 · Group Leader & ML Engineer**
 `Malware Mutation Detector Using AI-ML` — Final Year Project (Mentor: Dr. Surendra Tyagi)
@@ -171,7 +171,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ cat achievements.csv | column -t -s,`
+## `Achievements.csv | column -t -s,`
 
 <div align="center">
 
@@ -187,7 +187,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ cat education.badge`
+## `Education Badge`
 
 <div align="center">
 
@@ -200,7 +200,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ cat certifications.list`
+## `Certifications list`
 
 - 🎓 **HackerRank** — Software Engineer Intern Certificate
 - 🎓 **Deloitte** — Technology Job Simulation
@@ -215,7 +215,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ ping coding-profiles`
+## `Coding-profiles`
 
 <div align="center">
 
@@ -228,7 +228,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ curl github-stats --live`
+## `github-stats --live`
 
 <div align="center">
 
@@ -241,7 +241,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ ./show_trophies.sh`
+## `Sshow_trophies.sh`
 
 <div align="center">
 
@@ -251,7 +251,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ tail -f activity.log`
+## `Activity log`
 
 <div align="center">
 
@@ -261,7 +261,7 @@ Final-year project (Group Leader & ML Engineer), mentored by Dr. Surendra Tyagi.
 
 <br/>
 
-## `$ generate_summary_cards.py --full`
+## `Generate_summary_cards.py --full`
 
 <div align="center">
 
@@ -303,7 +303,7 @@ open_to:
 
 <br/>
 
-## `$ ./connect.sh --all`
+## `Connect.sh --all`
 
 <div align="center">
 
